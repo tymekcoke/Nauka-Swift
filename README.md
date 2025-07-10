@@ -8,6 +8,10 @@ Repozytorium dokumentuje mój postęp w nauce języka Swift.
 Nauka_Repo/
 ├── Swift_Podstawy/          # Materiały z kursu podstaw Swift
 │   ├── 01_SimpleData/       # Zmienne, stringi, liczby, boole
+│   │   ├── pierwsze_eksperymenty.swift
+│   │   ├── liczby_calkowite.swift
+│   │   ├── liczby_zmiennoprzecinkowe.swift
+│   │   └── stringi.swift
 │   ├── 02_ComplexData/      # Tablice, słowniki, sety, enums
 │   ├── 03_ConditionsAndLoops/ # Warunki i pętle
 │   ├── 04_Functions/        # Funkcje
@@ -17,7 +21,7 @@ Nauka_Repo/
 │   ├── 08_ProtocolsAndExtensions/ # Protokoły i rozszerzenia
 │   ├── 09_Optionals/        # Optionals
 │   └── 10_WrapUp/           # Podsumowanie
-├── Playgrounds/             # Eksperymenty i testy kodu
+├── Playgrounds/             # Ogólne eksperymenty (poza kursem)
 ├── Projects/                # Większe projekty
 └── Notes/                   # Notatki i dokumentacja
 ```
@@ -25,7 +29,13 @@ Nauka_Repo/
 ## 📈 Postęp
 
 - [x] Pierwsze eksperymenty z kodem
-- [ ] Rozpoczęcie kursu Swift Podstawy
+- [x] Rozpoczęcie kursu Swift Podstawy
+- [x] Zmienne i stringi
+- [x] Liczby całkowite
+- [x] Liczby dziesiętne
+- [x] Praca ze stringami
+- [ ] Booleany
+- [ ] Łączenie stringów
 - [ ] Ukończenie Simple Data
 - [ ] Ukończenie Complex Data
 - [ ] Ukończenie Conditions and Loops
