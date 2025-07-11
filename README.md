@@ -11,7 +11,9 @@ Nauka_Repo/
 │   │   ├── pierwsze_eksperymenty.swift
 │   │   ├── liczby_calkowite.swift
 │   │   ├── liczby_zmiennoprzecinkowe.swift
-│   │   └── stringi.swift
+│   │   ├── stringi.swift
+│   │   ├── booleany.swift
+│   │   └── checkpoint.swift
 │   ├── 02_ComplexData/      # Tablice, słowniki, sety, enums
 │   ├── 03_ConditionsAndLoops/ # Warunki i pętle
 │   ├── 04_Functions/        # Funkcje
@@ -34,9 +36,9 @@ Nauka_Repo/
 - [x] Liczby całkowite
 - [x] Liczby dziesiętne
 - [x] Praca ze stringami
-- [ ] Booleany
-- [ ] Łączenie stringów
-- [ ] Ukończenie Simple Data
+- [x] Booleany
+- [x] Checkpoint 1 - konwersja temperatur i miejsca zerowe
+- [x] Ukończenie Simple Data
 - [ ] Ukończenie Complex Data
 - [ ] Ukończenie Conditions and Loops
 - [ ] Ukończenie Functions
